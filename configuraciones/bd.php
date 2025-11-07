@@ -1,5 +1,6 @@
-<?php 
+<?php
 
+//aqui esta la base de datos
 class BD{
 
     public static $instancia=null;
